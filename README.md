@@ -1,3 +1,17 @@
-hello world!
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-see the project in action on www.cankisacik.com
+# Inspector Kullanım Kılavuzu
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
